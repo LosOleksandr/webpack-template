@@ -1,2 +1,2 @@
 # webpack-template
-Create a basic webpack build 
+Created a basic webpack build 
